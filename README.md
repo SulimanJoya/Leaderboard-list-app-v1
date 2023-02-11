@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://sulimanjoya.github.io/Leaderboard-list-app/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,6 +118,16 @@ To run the project, execute the following command:
 
 <!-- CONTRIBUTING -->
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Below is a lists of Features to be added later:
+
+- Deploy the app online
+- Change the design of the app
+- Add dark mode to the app
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -131,6 +141,16 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+ <!-- Give credit to everyone who inspired your codebase. -->
+
+I would like to thank my coding partner Mladan Ilic [@Mladan Ilic](https://github.com/djo1975)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
