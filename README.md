@@ -146,11 +146,11 @@ Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a> -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
  <!-- Give credit to everyone who inspired your codebase. -->
 
-I would like to thank my coding partner Mladan Ilic (https://github.com/djo1975)
+I would like to thank my coding partner Mladan Ilic [@Mladan Ilic](https://github.com/djo1975)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
