@@ -50,14 +50,11 @@ ul {
 li {
   padding: 3px 5px;
   font-weight: 700;
+  background-color: #fff;
 }
 
 li:nth-child(even) {
   background-color: #95f791;
-}
-
-li {
-  background-color: #fff;
 }
 
 .scoreboard {
